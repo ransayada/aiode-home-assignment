@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aiode-home-assignment/static/css/main.de2de5ab.css",
+    "main.css": "/aiode-home-assignment/static/css/main.0c43027e.css",
     "main.js": "/aiode-home-assignment/static/js/main.2c060553.js",
     "static/media/track-reverse.wav": "/aiode-home-assignment/static/media/track-reverse.f8d2bd9598389ef58f1f.wav",
     "static/media/track.wav": "/aiode-home-assignment/static/media/track.ec9a28a19df4649e2a5e.wav",
     "index.html": "/aiode-home-assignment/index.html",
-    "main.de2de5ab.css.map": "/aiode-home-assignment/static/css/main.de2de5ab.css.map",
+    "main.0c43027e.css.map": "/aiode-home-assignment/static/css/main.0c43027e.css.map",
     "main.2c060553.js.map": "/aiode-home-assignment/static/js/main.2c060553.js.map"
   },
   "entrypoints": [
-    "static/css/main.de2de5ab.css",
+    "static/css/main.0c43027e.css",
     "static/js/main.2c060553.js"
   ]
 }
