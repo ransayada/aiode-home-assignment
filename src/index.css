@@ -86,4 +86,5 @@ button:active{
 }
 .btn-pressed{
   background-color: #3A1DB8;
+  outline: none;
 }
