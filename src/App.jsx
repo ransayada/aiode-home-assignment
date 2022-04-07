@@ -39,7 +39,7 @@ const App = () => {
   //key press hooks
   const jPressed = useKeyPress("j");
   const lPressed = useKeyPress("l");
-  const kPressed = useKeyPress("k");
+  // const kPressed = useKeyPress("k"); //there is no use for the assignment but there is use in the future
   const escapePressed = useKeyPress("Escape");
   
   //Click on K button or K-Key pressed
@@ -90,7 +90,6 @@ const App = () => {
 
     //Key press handler
     const handleKeyPress = (ev) => {
-      console.log('here', ev.key);
       const key = ev.key;
       if (key === "k") {
         play();
